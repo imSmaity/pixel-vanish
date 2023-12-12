@@ -4,6 +4,11 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
+### Configuration
+Create a `.env` file in the root of the project and add the following configuration:
+
+`REACT_APP_API_URL='http://127.0.0.1:4000/v1'`
+
 In the project directory, you can run:
 
 ### `npm start`
